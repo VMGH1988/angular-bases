@@ -21,7 +21,15 @@ import { CommonModule } from '@angular/common';
 export class HeroesModule{};
 
 /*
-git remote add origin https://github.com/VMGH1988/angular-bases.git
-git branch -M main
-git push -u origin main
+git remote add origin https://github.com/VMGH1988/angular-bases.git  crea la referencia a mi github
+git branch -M main para renombrar mi rama a main
+git push -u origin main hacer un push de los cambios y poner origin como origen por defecto
+
+git checkout -- . es para que vuelva el proyecto a lo ultimo que tengo en git
+*/
+/*
+Luego para hacer cambios
+git add
+git commit
+git push
 */
